@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+ authors: 
+    - family-names: Rutsohn
+      given-names: Joshua
+title: Using HARE within JLCMM
+date-released: 2023-08-28
