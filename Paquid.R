@@ -1,3 +1,6 @@
+#Note: Different Versions of 'lcmm' and R may affect the results.  Refer to the manuscript for appropriate versions to replicate analyses done here.
+#Note: Code here developed for original submission of paper.  The code itself has not changed between versions, but some tables are now removed
+## from the manuscript and left in the online companion (09-01-2024).
 library(MASS)
 library(tidyverse)
 library(ggplot2)
