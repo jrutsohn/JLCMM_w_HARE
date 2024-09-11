@@ -1,3 +1,5 @@
+#Note: Simulations shown here reflect original submission.  New simulations have been added (Replicated_Simulations), and some simulations presented
+## below have been placed in the online companion (09-01-2024).
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
